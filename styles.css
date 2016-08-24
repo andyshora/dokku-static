@@ -1,4 +1,13 @@
 body {
 	background: black;
 	color: white;
+	font-family: Arial;
+	margin: 0;
+	padding: 10px 50px;
+}
+footer {
+	font-size: 10px;
+}
+a {
+	color: lime;
 }
